@@ -1,6 +1,18 @@
-# my-pc
-creating my first repository on my PC
+# Testes com linguagem MarkDown 
+***
+**Olá, mundo!**
 
-adicionando novos itens...
+Lista enumerada:
+1. Teste
+2. Teste2
+3. Teste3
+4. Teste4
 
-This line i changed directly on GitHub!
+Lista demarcada:
+* Teste
+* Teste
+* Teste
+
+Tarefas Listadas:
+- [ ] Iniciar o curso de linguagem de programação em JavaScript
+- [x] Cocnlcuir o curso de Git e GitHub
